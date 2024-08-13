@@ -11,7 +11,7 @@ resource aws_ecr_repository "repository" {
     git_last_modified_at = "2023-05-15 08:48:24"
     git_last_modified_by = "v@prismacloudsecuritydemo.com"
     git_modifiers        = "v"
-    git_org              = "ricardo7364"
+    git_org              = "prismacloudchina"
     git_repo             = "backend-app"
     yor_trace            = "3251a9e3-d124-4486-b3c3-77803b27dba0"
   }
